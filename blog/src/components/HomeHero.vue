@@ -1,8 +1,8 @@
 <template>
     <v-container fluid fill-height class="home-hero">
         <v-layout justify-center align-center column pa-5>
-            <div class="display-4 font-weight-black white--text text-xs-center">Steve's Ponderings</div>
-            <div class="display-1 font-weight-bold white--text text-xs-center"></div>
+            <div class="display-4 font-weight-black white--text text-xs-center logo">Steve's Ponderings</div>
+            <div class="display-1 font-weight-bold white--text text-xs-center slogan">adventures in technology</div>
             <v-btn fab class="mt-5 blue darken-4">
                 <v-icon large color="white">expand_more</v-icon>
             </v-btn>
