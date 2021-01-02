@@ -29,7 +29,7 @@ export default {
     name: 'AppNavigation',
     data() {
         return {
-            appTitle: 'Meal Prep',
+            appTitle: 'a curious tech blog',
             drawer: false,
             items: [
                 { title: 'Menu' },
