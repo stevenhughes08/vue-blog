@@ -23,4 +23,7 @@ export default {
     width: 100%;
     height: 100%;
 }
+.logo{
+    stroke: 5px black solid;
+}
 </style>
